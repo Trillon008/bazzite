@@ -1,16 +1,13 @@
 # Attentes
 
-Çe projet est un projet entretenu par des bénévoles et est majoritairement la création d'images des paquets Fedora.
-Si tu as trouvé des problèmes avec quelque-chose dans çe dépôt tu devrais vérifier que celui ci est
-de Fedora ou un tiers et reporter le problème avec eux.
-Les images sont construits chaque jour et intègrent des changements de Fedora automatiquements dans l'image finale.
+Ce projet est maintenu par des bénévoles et sert principalement, à la création d'images à partir de paquets Fedora existants.  
+Si vous avez trouvé un problème dans un de ces dépôts vous devez vérifier si ce paquet provient de Fedora ou d'un tiers et reporter le problème là bas.
+Les images sont construites tous les jours et intègrent automatiquement les changements provenant de Fedora dans l'image finale.
 
 # Réponse de Sécurité
-Si le problème est avec quelque-chose que tu as trouvé dans Fedora, alors, regardez l'information de
+Si le problème que vous avez trouvé est en rapport avec Fedora, alors suivez les informations données par l'équipe sécurité de CoreOS
 [CoreOS security.md](https://github.com/coreos/.github/blob/master/SECURITY.md):
->Si tu as trouvé un problème de sécurité et aimerais nous le dire en confidentialité, contactes l'équipe
-de Sécurité des Produits de Red Hat. Plus de détails içi: https://access.redhat.com/security/team/contact
+> Si vous avez découvert un problème de sécurité que vous voulez divulguer en toute confidentialité, contactez, s'il vous plait, l'équipe "Red Hat's Product Security team". Plus de détails ici: https://access.redhat.com/security/team/contact
 
-# Licence
-La majorité des dépôts sont sous la license Apache Licence, Version 2.0. Certains composants peuvent faire l'objet d'une licence
-différemment - consultez les dépôt individuels pour en savoir plus.
+# License
+La plupart des dépôts sont licenciés sous la license Apache, version 2.0. Certains composants peuvent faire l'objet d'une licence différente - Consultez leurs dépôts respectifs pour plus d'informations.
